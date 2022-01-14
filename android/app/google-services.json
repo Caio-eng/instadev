@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945346799167",
+    "project_id": "instadev-6c9e2",
+    "storage_bucket": "instadev-6c9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945346799167:android:b7823ab1fb08fc139a3a8a",
+        "android_client_info": {
+          "package_name": "com.et.instadev.instadev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945346799167-lkl67jq0itniregm0dqvgpfr6hfdl263.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcWYsDGUQlMvSVq8j64ZsTajs4yPixz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945346799167-lkl67jq0itniregm0dqvgpfr6hfdl263.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
