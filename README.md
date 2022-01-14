@@ -1,6 +1,6 @@
 # instadev
 
-A new Flutter project.
+Aplicativo do Clone do Intagram em Flutter, Dart e Firebase tanto Mobile e Web.
 
 ## Getting Started
 
